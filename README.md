@@ -35,8 +35,7 @@ Use Python to parse authentication-style logs and flag repeated failed logins. T
 - Never commit passwords, access keys, tokens, or other secrets.
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add a professional contact email]
+- LinkedIn: https://www.linkedin.com/in/saeed-ali-0a96a22b0
+- Email: Saeed210702@gmail.com
 - GitHub: [Add your GitHub profile URL]
 
-> Replace placeholders, complete each project, add your own screenshots and findings, and update each project status before presenting this portfolio to employers.
