@@ -1,0 +1,9 @@
+2026-10-20T09:00:12Z host-demo sshd[1001]: Failed password for invalid user admin from 192.0.2.44 port 51001 ssh2
+2026-10-20T09:00:18Z host-demo sshd[1002]: Failed password for invalid user admin from 192.0.2.44 port 51002 ssh2
+2026-10-20T09:00:24Z host-demo sshd[1003]: Failed password for invalid user admin from 192.0.2.44 port 51003 ssh2
+2026-10-20T09:01:03Z host-demo sshd[1004]: Failed password for analyst from 192.0.2.44 port 51004 ssh2
+2026-10-20T09:02:10Z host-demo sshd[1005]: Accepted password for analyst from 198.51.100.23 port 52001 ssh2
+2026-10-20T09:05:44Z host-demo sshd[1006]: Failed password for analyst from 203.0.113.77 port 53001 ssh2
+2026-10-20T09:05:51Z host-demo sshd[1007]: Failed password for analyst from 203.0.113.77 port 53002 ssh2
+2026-10-20T09:06:02Z host-demo sshd[1008]: Failed password for analyst from 203.0.113.77 port 53003 ssh2
+2026-10-20T09:15:19Z host-demo sshd[1009]: Accepted publickey for deploy from 198.51.100.50 port 54001 ssh2
